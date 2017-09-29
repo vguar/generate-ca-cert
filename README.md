@@ -1,5 +1,7 @@
 # generate-ca-cert
 
+SOURCE : http://www.linux-france.org/prj/edu/archinet/systeme/ch24s03.html
+
 Etape 1 : La création des certificats
 Prev 	Chapter 24. TP sur le serveur WEB sécurisé	 Next
 Etape 1 : La création des certificats
